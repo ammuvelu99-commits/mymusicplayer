@@ -1,0 +1,5 @@
+Flask
+streamlit
+gunicorn
+flet
+uvicorn
